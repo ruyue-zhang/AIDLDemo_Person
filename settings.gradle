@@ -1,0 +1,3 @@
+include ':client'
+include ':app'
+rootProject.name = "Person"
